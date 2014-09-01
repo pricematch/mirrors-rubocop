@@ -1,0 +1,5 @@
+-   id: rubocop
+    name: rubocop
+    entry: rubocop
+    language: ruby
+    files: \.(rb|rake)$
