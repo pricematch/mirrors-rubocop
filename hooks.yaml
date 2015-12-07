@@ -3,3 +3,5 @@
     entry: rubocop
     language: ruby
     files: \.(rb|rake)$
+    args: []
+
