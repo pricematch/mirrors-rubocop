@@ -4,6 +4,6 @@ Gem::Specification.new do |s|
     s.authors = ['Anthony Sottile']
     s.summary = 'A fake mirror gem for rubocop'
     s.description = 'A fake mirror gem for rubocop'
-    s.add_dependency 'rubocop', '0.38.0'
+    s.add_dependency 'rubocop', '0.39.0'
     s.add_dependency 'rubocop-rspec', '1.3.1'
 end
