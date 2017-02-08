@@ -1,4 +1,5 @@
 Gem::Specification.new do |s|
+    s.add_dependency 'rubocop-rspec', '1.7.0'
     s.name = '__fake_gem'
     s.version = '0.0.0'
     s.authors = ['Anthony Sottile']
